@@ -42,7 +42,7 @@ Below is a preview of the first 5 high-quality datasets included in the collecti
 ## Important Notes
 ### URL Validity
 - "Verified Dataset URL" is updated quarterly to ensure accessibility.
-- If a verified link is invalid, check the "Dataset URL from Citing/Cited Papers" field for alternative access paths (e.g., archived versions or paper-referenced links).
+- If a verified link is invalid, check the "Dataset URL from Citing/Cited Papers" field for alternative access ways (e.g., archived versions or paper-referenced links).
 
 ### Encoding Requirement
 The CSV file uses **UTF-8 encoding** to ensure correct display of Polish special characters (ą, ć, ę, ł, ń, ó, ś, ź, ż). Always open the file with UTF-8 encoding to avoid garbled text.
