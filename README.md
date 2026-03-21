@@ -1,4 +1,4 @@
-# Polish Language Datasets Collection
+# Polish-Dataset-List-Liu Zhaoyuan# Polish Language Datasets Collection
 
 ## Introduction
 This repository contains a **curated, manually verified metadata collection** of publicly available Polish language datasets for natural language processing (NLP) research. 
@@ -22,7 +22,7 @@ Each dataset entry is annotated with structured, research-oriented metadata to e
 
 ## Data Access
 The complete metadata collection of Polish language datasets is provided in a structured CSV file:
-- Core File: `Polish-Language-Dataset-Collection.csv`
+- Core File: `Polish-Dataset-List-Liu Zhaoyuan.csv`
 
 💡 **Tip**: Click on the CSV file above to view the full, searchable table directly in GitHub. For local use, download the file and open it with UTF-8 encoding to preserve Polish special characters.
 
@@ -37,7 +37,7 @@ Below is a preview of the first 5 high-quality datasets included in the collecti
 | **ParCor** | https://clarin-pl.eu/dspace/handle/11321/664 | https://doi.org/10.18778/0867-6356.2018.38 | Text | Paraphrase Detection, Semantic Similarity | A dataset of Polish paraphrase pairs, including 3,000 manually annotated sentence pairs labeled as "paraphrase" or "non-paraphrase". Used for evaluating semantic similarity models in Polish. |
 | **PolEmo2.0** | https://github.com/sdadas/polish-nlp-resources#polemo20 | https://doi.org/10.18653/v1/2020.lrec-1.827 | Text | Sentiment Analysis, Emotion Recognition | An extended Polish sentiment and emotion dataset with 10,000 product and movie reviews. Annotations include 4 sentiment categories (positive, negative, neutral, mixed) and 6 emotion labels. |
 
-*(Please download the `Polish-Language-Dataset-Collection.csv` file to view the complete list of datasets.)*
+*(Please download the `Polish-Dataset-List-Liu Zhaoyuan.csv` file to view the complete list of datasets.)*
 
 ## Important Notes
 ### URL Validity
