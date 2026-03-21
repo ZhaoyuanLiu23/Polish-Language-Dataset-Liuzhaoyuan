@@ -1,4 +1,4 @@
-# Polish-Dataset-List-Liu Zhaoyuan# Polish Language Datasets Collection
+# Polish-Dataset-List-Liu Zhaoyuan # Polish Language Datasets Collection
 
 ## Introduction
 This repository contains a **curated, manually verified metadata collection** of publicly available Polish language datasets for natural language processing (NLP) research. 
